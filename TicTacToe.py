@@ -11,7 +11,6 @@ game state.
 Running =0 | Win=1 | Draw=-1 
 """
 
-#게임판을 나타내는 변수 coor을 입력받고, 이에 해당하는 게임판을 출력해주는 함수 print_board를 만들어줍시다.
 def print_board() :
     print("  │A │B │C │")
     print("─┼─┼─┼─┤")
